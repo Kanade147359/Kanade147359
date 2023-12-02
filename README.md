@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanade147359&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kanade147359/Kanade147359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
